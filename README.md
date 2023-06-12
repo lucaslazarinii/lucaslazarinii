@@ -1,18 +1,16 @@
+### Hello there 👋
+
+<!-- #### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾ -->
+
+Information Systems student at [UFSC](https://ufsc.br);<br>
+Trainee at [Pixel](https://ejpixel.com.br);<br>
 
 
 <!--
-**lucaslazarinii/lucaslazarinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 📫 Reach me: [linkedin.com/lucas-lazarini](https://linkedin.com/lucas-lazarini)
+- ⚡️ Fun fact: I'm a huge fan of F1
+--->
