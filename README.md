@@ -3,7 +3,7 @@
 <!-- #### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾ -->
 
 Information Systems student at [UFSC](https://ufsc.br);<br>
-Trainee at [Pixel](https://ejpixel.com.br);<br>
+Web Developer at [Pixel](https://ejpixel.com.br);<br>
 Intern at [Nexfar](https://nexfar.com.br/);<br>
 
 
