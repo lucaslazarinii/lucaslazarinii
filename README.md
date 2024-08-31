@@ -1,6 +1,6 @@
 ### Hello there! 
 
-I am a Software Developer Student with skills in web application development. I am committed to learning and applying best practices to scale, architect and maintain quality systems in critical environments.
+I am a Software Developer and student, passionate about understanding the inner workings of technologies and the reasons behind the solutions adopted.
 
 🔧 My stack:
 
